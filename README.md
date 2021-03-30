@@ -20,7 +20,8 @@ TAMPILAN HALAMAN 2
 ![Screenshot (136)_LI](https://user-images.githubusercontent.com/81596397/112928238-6f873b00-9140-11eb-911d-fff48de8c6ba.jpg)
 
 Penulisan yang benar adalah <h1>PEMROGRAMAN WEB</h1>. Jika ditulis "\" .
-![Screenshot (136)_LI](https://user-images.githubusercontent.com/81596397/112928388-bd03a800-9140-11eb-9640-955352df8667.jpg)
+
+![Screenshot (142)_LI](https://user-images.githubusercontent.com/81596397/112929543-d7d71c00-9142-11eb-8bcc-c39d2b28db6d.jpg)
 
 2. Perbedaan tag "p" dan "br"
 
